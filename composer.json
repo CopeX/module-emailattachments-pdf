@@ -1,7 +1,7 @@
 {
   "name": "copex/module-agreements-pdf",
   "version": "1.0.0",
-  "description": "Convert HTML to PDF for Emails",
+  "description": "Magento 2 Module for Terms and Conditions attached to Emails as PDF",
   "type": "magento2-module",
   "require": {
     "magento/framework": "*",
