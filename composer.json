@@ -1,0 +1,22 @@
+{
+  "name": "copex/module-agreements-pdf",
+  "version": "1.0.0",
+  "description": "Convert HTML to PDF for Emails",
+  "type": "magento2-module",
+  "require": {
+    "magento/framework": "*",
+    "fooman/emailattachments-implementation-m2": "107.4.*",
+    "mpdf/mpdf": "^8.2"
+  },
+  "license": [
+    "Proprietary"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "CopeX\\AgreementsPdf\\": ""
+    }
+  }
+}
