@@ -1,6 +1,6 @@
 {
   "name": "copex/module-agreements-pdf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Magento 2 Module for Terms and Conditions attached to Emails as PDF",
   "type": "magento2-module",
   "require": {
